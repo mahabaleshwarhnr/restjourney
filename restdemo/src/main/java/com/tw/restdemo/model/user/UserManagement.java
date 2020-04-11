@@ -1,7 +1,6 @@
-package com.tw.restdemo.Data.User;
+package com.tw.restdemo.model.user;
 
 import org.springframework.stereotype.Component;
-import com.tw.restdemo.Data.User.User;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package com.tw.restdemo.Data.User;
+package com.tw.restdemo.model.user;
 
 public class RegistrationResponse {
 

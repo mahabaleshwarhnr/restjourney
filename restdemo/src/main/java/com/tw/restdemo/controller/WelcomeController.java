@@ -1,7 +1,6 @@
 package com.tw.restdemo.controller;
 
-import com.tw.restdemo.Data.User.*;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.tw.restdemo.model.user.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,8 +1,7 @@
-package com.tw.restdemo.Data.User;
+package com.tw.restdemo.model.user;
 
 import lombok.NonNull;
 
-import javax.validation.Valid;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotEmpty;
